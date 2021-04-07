@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">finger</string>
+    <string name="instruction">使用说明\n
+        1, 点击建立连接按钮, 软件开始和指纹模块进行通讯\n
+        2, 手指轻按指纹按键，再点击注册按钮, 进行连续5次注册\n
+        3, 手指轻按指纹按键，点击验证指纹按钮, 查看该指纹是否已成功注册</string>
+</resources>
